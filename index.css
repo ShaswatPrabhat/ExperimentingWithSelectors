@@ -1,28 +1,26 @@
 /* Simple selectors */
 /* Based on HTML Elements */
 
-
 html {
-    background-color: cyan;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 0;
-    margin: 0;
+  background-color: cyan;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
 }
 
 h1 {
-    color: blueviolet;
+  color: blueviolet;
 }
 
-h2, p {
-    color: red;
-    font-size: 4em;
+h2,
+p {
+  color: red;
+  font-size: 4em;
 }
 
 .warning {
-    color: red;
-    font-weight: bolder;
+  color: red;
+  font-weight: bolder;
 }
-
-
