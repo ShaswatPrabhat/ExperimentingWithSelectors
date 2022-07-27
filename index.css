@@ -1,0 +1,13 @@
+/* Simple selectors */
+/* Based on HTML Elements */
+
+html {
+  background-color: cyan;
+}
+h1 {
+  color: blueviolet;
+}
+h2 {
+  color: red;
+  font: medium;
+}
